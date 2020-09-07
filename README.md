@@ -1,6 +1,6 @@
 ### Hello!
 
-
+My name is Morgan, and i like to code.
 
 <!--
 **amesteDev/amesteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
