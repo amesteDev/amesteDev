@@ -2,6 +2,14 @@
 
 My name is Morgan, and i like to code.
 
+- 🌱 I’m currently learning Web Dev. (Almost completed my two year education at MIUN.
+- 🔭 Everything that will make me improve at node/mongoDB, backend, frontend, web etc.
+- 👯 I’m looking to collaborate on something cool. Get in touch!
+
+- 📫 How to reach me: info@ameste.se
+
+
+
 <!--
 **amesteDev/amesteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
