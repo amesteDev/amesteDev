@@ -2,11 +2,11 @@
 
 My name is Morgan, and i like to code.
 
-- 🌱 Now learing: Web Dev (Almost completed my two year education at MIUN.
-- 🤔 Wanting to learn: python, Java, golang, more about NoSQL and computer science related topics.
-- 🔭 Now working on: Everything that will make me improve at node/mongoDB, backend, frontend, web etc.
+- 🌱 Now learing: Last year on my bachelor of computer science
+- 🤔 Wanting to learn: golang and C.
+- 🔭 Now working on: Everything that will make me improve at coding and problem solving. 
 - 👯 Looking to collaborate: Always up for something cool. Get in touch!
-- ⚡ Favorite langs/tech: Node.js, JavaScript(ES6+), SASS.
+- ⚡ Favorite langs/tech: Node.js, Java, python.
 - 📫 How to reach me: info@ameste.se
 
 
