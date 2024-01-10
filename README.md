@@ -2,11 +2,10 @@
 
 My name is Morgan, and i like to code.
 
-- 🌱 Now learing: Last year on my bachelor of computer science
-- 🤔 Wanting to learn: golang and/or C.
+- 🌱 Now learing: Linux Server Admin and getting better at Java.
+- 🤔 Wanting to learn: Might wanna look into embedded projects.
 - 🔭 Now working on: Everything that will make me improve at coding and problem solving. 
-- 👯 Looking to collaborate: Always up for something cool. Get in touch!
-- ⚡ Favorite langs/tech: Node.js, Java, python.
+- ⚡ Favorite langs/tech: Node.js, Java, something cool.
 - 📫 How to reach me: info@ameste.se
 
 
